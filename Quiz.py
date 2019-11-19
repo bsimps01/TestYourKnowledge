@@ -81,7 +81,7 @@ def question_six():
         return 0
 
 def question_seven():
-    response7 = input("Who has the highest kill count in the Star Wars Universe? A) Darth Vader B) Luke Skywalker C) Princess Leia D) Emperor Palpatine E) Han Solo ")
+    response7 = input("What was the name of the space station that was used to destroy planets? A) Death Destroyer B) Death Star C) Star Killer D) Death Seeker E) Grim Celestial ")
     
     if response7 == "B":
         print("That's right! The Death Star was a big one!")
